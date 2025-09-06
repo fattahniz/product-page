@@ -58,9 +58,9 @@ Add product variations (color, size)
 🙋‍♂️ Author
 Abdulfattah Nizamani
 📍 Based in Islamabad
-🌐 LinkedIn: linkedin.com/abdulfattahnizamani
 
-🏷️ Tags
+
+
 #HTML #CSS #UIUX #Frontend #WebDesign #InternshipReady #ProductPage #ResponsiveDesign #Islamabad #OpenToWork #GitHubPages #Vercel #JuniorFrontendDev
 
 ⭐ Show Your Support
