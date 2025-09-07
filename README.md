@@ -42,7 +42,7 @@ Edit
 ```bash
 git clone https://github.com/abdulfattahnizamani/product-page.git
 cd product-page
-
+```
 
 📌 Future Scope
 This simple UI can be extended to:
@@ -56,8 +56,9 @@ Connect to a backend CMS
 Add product variations (color, size)
 
 🙋‍♂️ Author
-Abdulfattah Nizamani
+**Abdulfattah Nizamani**
 📍 Based in Islamabad
+Reach Out! **[LinkedIn](https://linkedin.com/in/fattahniz)**
 
 
 
