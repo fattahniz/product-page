@@ -2,14 +2,6 @@
 
 This is a clean and modern **Product Page** UI built with **HTML** and **CSS**. It displays a featured product with image, price, and description. The design is responsive and perfect for showcasing eCommerce or digital store items.
 
----
-
-## 🚀 Demo
-
-🔗 [Live Demo on Vercel](https://product-page-rho-one.vercel.app/)
-
-
-
 ## 💡 Features
 
 - 🎨 Modern & minimal UI
@@ -18,59 +10,47 @@ This is a clean and modern **Product Page** UI built with **HTML** and **CSS**. 
 - 🖼️ Product image with styled borders and hover effects
 - 📦 Clean structure, easy to customize
 
----
-
-## 📂 Project Structure
-product-page/
-│
-├── index.html
-├── style.css
-└── images/
-└── product.jpg (or your own image)
-
-yaml
-Copy
-Edit
-
-
----
-
-## 🛠️ How to Run Locally
-
-1. Clone the repository:
-
+## Installation
+1. Clone the repo
 ```bash
-git clone https://github.com/abdulfattahnizamani/product-page.git
+   git clone https://github.com/fattahniz/product-page.git
 cd product-page
 ```
 
-📌 Future Scope
+2. Run locally
+Open index.html directly in your browser or use a Live Server extension in VS Code.
+
+## 📂 Project Structure
+```css
+project/
+│── index.html
+│── style.css
+│── main.js
+│── images/
+│── README.md
+```
+
+## 📌 Future Scope
 This simple UI can be extended to:
 
-Add shopping cart functionality using JavaScript
+1. Add shopping cart functionality using JavaScript
 
-Integrate with Stripe or PayPal
+2. Integrate with Stripe or PayPal
 
-Connect to a backend CMS
+3. Connect to a backend CMS
 
-Add product variations (color, size)
+4. Add product variations (color, size)
 
-🙋‍♂️ Author
-**Abdulfattah Nizamani**
-📍 Based in Islamabad
-Reach Out! **[LinkedIn](https://linkedin.com/in/fattahniz)**
+## 🤝 Contributing
+Fork the repo
 
+1. Create a new branch (feature/my-feature)
+2. Commit changes
+3. Push branch and create a Pull Request
 
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE
+file for details.
 
-#HTML #CSS #UIUX #Frontend #WebDesign #InternshipReady #ProductPage #ResponsiveDesign #Islamabad #OpenToWork #GitHubPages #Vercel #JuniorFrontendDev
-
-⭐ Show Your Support
+## ⭐ Show Your Support
 If you like this project, please give it a ⭐ on GitHub!
-
-yaml
-Copy
-Edit
-
-
-
-Would you like me to generate a **`screenshot.png` placeholder** or help you deploy this repo on **GitHub Pages or Vercel**?
