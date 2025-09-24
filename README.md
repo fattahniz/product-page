@@ -10,6 +10,11 @@ This is a clean and modern **Product Page** UI built with **HTML** and **CSS**. 
 - 🖼️ Product image with styled borders and hover effects
 - 📦 Clean structure, easy to customize
 
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript (ES6+)
+
+**Deployment:** Vercel
+
 ## Installation
 1. Clone the repo
 ```bash
